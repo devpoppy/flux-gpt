@@ -26,7 +26,7 @@ It also provides a robust set of keyboard shortcuts, allows setting the system m
 ## Running Locally
 
 ```sh
-git clone https://github.com/prince950408/flux-gpt.git
+git clone https://github.com/devpoppy/flux-gpt.git
 npm install
 npm run dev
 ```
